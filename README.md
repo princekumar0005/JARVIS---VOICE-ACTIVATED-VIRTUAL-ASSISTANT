@@ -78,7 +78,7 @@ python main.py
 - This project is open-source and available under the MIT License.
 ## 👨‍💻 Author
 - Prince Kumar
-- 🌐 GitHub: https://github.com/princekumar0005⁠�
+- 🌐 GitHub: https://github.com/princekumar0005
 ## ⭐ Support
 If you like this project, please ⭐ star the repository and share it!
 
