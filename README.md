@@ -41,10 +41,10 @@ Inspired by real-world assistants like Alexa and Google Assistant.
 
 ## ⚙️ Installation & Setup
 
-1️⃣ Clone the Repository
-- Bash
-git clone https://github.com/princekumar0005/JARVIS---VOICE-ACTIVATED-VIRTUAL-ASSISTANT.git
-cd JARVIS---VOICE-ACTIVATED-VIRTUAL-ASSISTANT
+-1️⃣ Clone the Repository
+--Bash
+ --git clone https://github.com/princekumar0005/JARVIS---VOICE-ACTIVATED-VIRTUAL-ASSISTANT.git
+--cd JARVIS---VOICE-ACTIVATED-VIRTUAL-ASSISTANT
 
 2️⃣ Install Dependencies
 -Bash
