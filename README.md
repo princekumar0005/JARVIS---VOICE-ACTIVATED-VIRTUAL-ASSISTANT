@@ -39,44 +39,47 @@ Inspired by real-world assistants like Alexa and Google Assistant.
 │── README.md
 │── assets/
 
-## ⚙️ Installation & Setup
+---
 
--1️⃣ Clone the Repository
---Bash
- --git clone https://github.com/princekumar0005/JARVIS---VOICE-ACTIVATED-VIRTUAL-ASSISTANT.git
---cd JARVIS---VOICE-ACTIVATED-VIRTUAL-ASSISTANT
+## ⚙️ Installation & Setup  
 
-2️⃣ Install Dependencies
--Bash
-pip install -r requirements.txt
+### 1️⃣ Clone the Repository  
 
-3️⃣ Run the Project
--Bash
+```bash``
+git clone https://github.com/princekumar0005/JARVIS---VOICE-ACTIVATED-VIRTUAL-ASSISTANT.git
+cd JARVIS---VOICE-ACTIVATED-VIRTUAL-ASSISTANT
+
+### 2️⃣ Install Dependencies
+```Bash`
+ pip install -r requirements.txt
+
+### 3️⃣ Run the Project
+```-Bash``
 python main.py
 
 
 ## 🎯 Usage
-  Run the program
-  Speak commands like:
-  “Open YouTube”
-  “What is the time?”
-“Play music”
-“Search Python tutorial”
-💡 Future Improvements
-Add GUI (Graphical Interface)
-Integrate AI (ChatGPT / NLP)
-Add Weather Updates 🌦️
-Smart Home Integration 🏠
-Mobile App Version 📱
-🤝 Contributing
-Contributions are welcome!
-Feel free to fork this repository and submit a pull request.
-📜 License
-This project is open-source and available under the MIT License.
-👨‍💻 Author
-Prince Kumar
-🌐 GitHub: https://github.com/princekumar0005⁠�
-⭐ Support
+  -Run the program
+  -Speak commands like:
+  -“Open YouTube”
+  -“What is the time?”
+   -“Play music”
+-“Search Python tutorial”
+## 💡 Future Improvements
+- Add GUI (Graphical Interface)
+- Integrate AI (ChatGPT / NLP)
+- Add Weather Updates 🌦️
+- Smart Home Integration 🏠
+- Mobile App Version 📱
+## 🤝 Contributing
+- Contributions are welcome!
+- Feel free to fork this repository and submit a pull request.
+## 📜 License
+- This project is open-source and available under the MIT License.
+## 👨‍💻 Author
+- Prince Kumar
+- 🌐 GitHub: https://github.com/princekumar0005⁠�
+## ⭐ Support
 If you like this project, please ⭐ star the repository and share it!
 
 
